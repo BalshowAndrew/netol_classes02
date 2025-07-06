@@ -1,4 +1,4 @@
-setup: sync kernel env-activate
+setup: sync kernel
 
 sync: 
 	uv sync
